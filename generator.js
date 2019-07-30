@@ -57,6 +57,10 @@ function main() {
   }
 }
 
+function benchmark() {
+  // TODO calculate avg. number of seconds to generate every possible stupid number
+}
+
 if (require.main === module) {
   main()
 }
